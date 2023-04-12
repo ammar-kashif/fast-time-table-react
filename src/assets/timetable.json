@@ -1,0 +1,6563 @@
+[
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "OOP (CS-A)",
+        "Room": "C-301",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "DLD (CS-A)",
+        "Room": "C-301",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Diff Eq (CS-A)",
+        "Room": "C-301",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B/Z",
+        "Subject": "DB (CS-B/Z)",
+        "Room": "C-301",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Pak Studies (CS-A)",
+        "Room": "C-301",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Pak Studies (CS-B)",
+        "Room": "C-301",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B/Z",
+        "Subject": "Algo (CS-B/Z)",
+        "Room": "C-302",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Diff Eq (CS-B)",
+        "Room": "C-302",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "DLD (CS-B)",
+        "Room": "C-302",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "OOP (CS-B)",
+        "Room": "C-302",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Diff Eq (CS-D)",
+        "Room": "C-302",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Pak Studies (CS-C)",
+        "Room": "C-303",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "OOP (CS-C)",
+        "Room": "C-303",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "DLD (CS-E)",
+        "Room": "C-303",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "Diff Eq (CS-E)",
+        "Room": "C-303",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "DLD (CS-D)",
+        "Room": "C-304",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "OOP (CS-D)",
+        "Room": "C-304",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Pak Studies (CS-D)",
+        "Room": "C-304",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Diff Eq (CS-C)",
+        "Room": "C-304",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "DLD (CS-C)",
+        "Room": "C-304",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Numerical (CS-B)",
+        "Room": "C-304",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "OOP (CS-E)",
+        "Room": "C-305",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "Pak Studies (CS-E)",
+        "Room": "C-305",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "Prob & Stats (CS-E)",
+        "Room": "C-305",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Prob & Stats (CS-D)",
+        "Room": "C-305",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "R",
+        "Subject": "Comp Networks (SE-R)",
+        "Room": "C-305",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "R",
+        "Subject": "AI for SE (SE-R)",
+        "Room": "C-305",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "H",
+        "Subject": "Comm & Pres Skills (CS-H)   ",
+        "Room": "C-307",
+        "Timings": "08:00-09:20"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Prob & Stats (CS-C)",
+        "Room": "C-307",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Discrete (DS-A)",
+        "Room": "C-307",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "S",
+        "Subject": "Comp Networks (SE-S)",
+        "Room": "C-307",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "S",
+        "Subject": "AI for SE (SE-S)",
+        "Room": "C-307",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "Comm & Pres Skills (CS-G)   ",
+        "Room": "C-308",
+        "Timings": "08:00-09:20"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "K",
+        "Subject": "Comm & Pres Skills (CS-K)  ",
+        "Room": "C-308",
+        "Timings": "10:50-12:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2020",
+        "Section": "N",
+        "Subject": "Web (DS-N)",
+        "Room": "C-308",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "N",
+        "Subject": "Fund of Big Data (DS-N)",
+        "Room": "C-308",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "Islamic Studies (SE-G)",
+        "Room": "C-309",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "Intro to SE (SE-E)",
+        "Room": "C-309",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "OOP (SE-G)",
+        "Room": "C-309",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "Intro to SE (SE-G)",
+        "Room": "C-309",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "21,C",
+        "Subject": "Fund of Mgt (CS-21,C)",
+        "Room": "C-309",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "21,C",
+        "Subject": "Fund of Mgt (CS-21,C)",
+        "Room": "C-309",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "Islamic Studies (SE-F)",
+        "Room": "C-310",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "OOP (SE-F)",
+        "Room": "C-310",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "Intro to SE (SE-F)",
+        "Room": "C-310",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "Islamic Studies (SE-E)",
+        "Room": "C-310",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CY",
+        "Batch": "2019",
+        "Section": "T",
+        "Subject": "PPIT (CY-T)",
+        "Room": "C-310",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CY",
+        "Batch": "2019",
+        "Section": "T",
+        "Subject": "Info Assurance (CY-T)",
+        "Room": "C-310",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2019",
+        "Section": "F",
+        "Subject": "Prob & Stats (CS-F)",
+        "Room": "C-311",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "OOP (DS-A)",
+        "Room": "C-311",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Discrete (SE-C)",
+        "Room": "C-311",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Diff Eq (CY-B)",
+        "Room": "C-401",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Discrete (DS-B)",
+        "Room": "C-401",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Diff Eq (DS-B)",
+        "Room": "C-401",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2019",
+        "Section": "J",
+        "Subject": "PPIT (AI-J)",
+        "Room": "C-401",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2019",
+        "Section": "J",
+        "Subject": "MLOPs (AI-J)",
+        "Room": "C-401",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "OOP (AI-A)",
+        "Room": "C-402",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Islamic Studies (AI-A)",
+        "Room": "C-402",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Diff Eq (CY-A)",
+        "Room": "C-402",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Discrete (AI-A)",
+        "Room": "C-402",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2019",
+        "Section": "K",
+        "Subject": "MLOPs (AI-K)",
+        "Room": "C-402",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2019",
+        "Section": "K",
+        "Subject": "PPIT (AI-K)",
+        "Room": "C-402",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Discrete (AI-B)",
+        "Room": "C-403",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "OOP (AI-B)",
+        "Room": "C-403",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "OOP (SE-E)",
+        "Room": "C-403",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "T",
+        "Subject": "Comp Networks (CY-T)",
+        "Room": "C-403",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "T",
+        "Subject": "Fund of SE (CY-T)",
+        "Room": "C-403",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Diff Eq (DS-A)",
+        "Room": "C-404",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Comm & Pres Skills (AI-D)   ",
+        "Room": "C-404",
+        "Timings": "09:05-10:25"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Comm & Pres Skills (AI-C)   ",
+        "Room": "C-404",
+        "Timings": "10:30-11:50"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "OOP (DS-B)",
+        "Room": "C-405",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Diff Eq (AI-C)",
+        "Room": "C-405",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "AI (CS-F)",
+        "Room": "C-405",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Diff Eq (AI-D)",
+        "Room": "C-405",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "H",
+        "Subject": "Prob & Stats (CS-H)",
+        "Room": "C-406",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2020",
+        "Section": "N",
+        "Subject": "Data Mining (DS-N)",
+        "Room": "C-406",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2020",
+        "Section": "N",
+        "Subject": "Digital Mktg (DS-N)",
+        "Room": "C-406",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "F",
+        "Subject": "SE (CS-F)",
+        "Room": "C-406",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "A/Y",
+        "Subject": "OS (CS-A/Y)",
+        "Room": "C-407",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Islamic Studies (DS-C)",
+        "Room": "C-407",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A/Y",
+        "Subject": "DB (CS-A/Y)",
+        "Room": "C-407",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A/Y",
+        "Subject": "Algo (CS-A/Y)",
+        "Room": "C-407",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "OOP (CY-C)",
+        "Room": "C-408",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Discrete (CY-C)",
+        "Room": "C-408",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Islamic Studies (CY-C)",
+        "Room": "C-408",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Islamic Studies (CY-D)",
+        "Room": "C-408",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "Z",
+        "Subject": "OOP (CS-Z)",
+        "Room": "C-408",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "Z",
+        "Subject": "Diff Eq (CS-Z)",
+        "Room": "C-408",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Discrete (CY-D)",
+        "Room": "C-409",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "OOP (CY-D)",
+        "Room": "C-409",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "PDC (CS-E)",
+        "Room": "C-410",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "PDC (CS-F)",
+        "Room": "C-410",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "SE (CS-E)",
+        "Room": "C-410",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "AI (CS-E)",
+        "Room": "C-410",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "J",
+        "Subject": "DB (AI-J)",
+        "Room": "B-227",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "B/Z",
+        "Subject": "OS (CS-B/Z)",
+        "Room": "B-227",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "Q",
+        "Subject": "Prob & Stats (SE-Q)",
+        "Room": "B-227",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Islamic Studies (DS-D)",
+        "Room": "B-227",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "OS (CS-G)",
+        "Room": "B-229",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "DB (CS-G)",
+        "Room": "B-229",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "Algo (CS-G)",
+        "Room": "B-229",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "T",
+        "Subject": "AI (CY-T)",
+        "Room": "B-229",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "P",
+        "Subject": "Mktg Mgt (SE-P)",
+        "Room": "B-230",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "P",
+        "Subject": "Prob & Stats (SE-P)",
+        "Room": "B-230",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "N",
+        "Subject": "Mktg Mgt (DS-N)",
+        "Room": "B-230",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "N",
+        "Subject": "Fund of SE (DS-N)",
+        "Room": "B-230",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "A",
+        "Subject": "Stat Modeling (CS-A)",
+        "Room": "A-301",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "A",
+        "Subject": "Numerical (CS-A)",
+        "Room": "A-301",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "J",
+        "Subject": "Fund of SE (AI-J)",
+        "Room": "A-302",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "D",
+        "Subject": "Numerical (CS-D)",
+        "Room": "A-302",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "D",
+        "Subject": "Stat Modeling (CS-D)",
+        "Room": "A-302",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "K",
+        "Subject": "Fund of SE (AI-K)",
+        "Room": "A-303",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "K",
+        "Subject": "DB (AI-K)",
+        "Room": "A-303",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "K",
+        "Subject": "AI (AI-K)",
+        "Room": "A-303",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "J",
+        "Subject": "AI (AI-J)",
+        "Room": "A-303",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "U",
+        "Subject": "Fund of SE (DS-U)",
+        "Room": "A-305",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "U",
+        "Subject": "Fund of Big Data (DS-U)",
+        "Room": "A-305",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "K",
+        "Subject": "Comp Networks (AI-K)",
+        "Room": "A-305",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "K",
+        "Subject": "PDC (AI-K)",
+        "Room": "A-305",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "M",
+        "Subject": "Fund of Mgt (DS-M)",
+        "Room": "A-310",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "M",
+        "Subject": "Fund of SE (DS-M)",
+        "Room": "A-310",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "Q",
+        "Subject": "Process Mining (SE-Q)",
+        "Room": "A-310",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "Q",
+        "Subject": "Info Sec (SE-Q)",
+        "Room": "A-310",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "P",
+        "Subject": "Process Mining (SE-P)",
+        "Room": "A-311",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "Q",
+        "Subject": "Web Engg (SE-Q)",
+        "Room": "A-311",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "P",
+        "Subject": "Web Engg (SE-P)",
+        "Room": "A-311",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "P",
+        "Subject": "Info Sec (SE-P)",
+        "Room": "A-311",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Comm & Pres Skills (DS-D)  ",
+        "Room": "A-314",
+        "Timings": "09:05-10:25"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Comm & Pres Skills (DS-C)   ",
+        "Room": "A-314",
+        "Timings": "10:30-11:50"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Discrete (SE-D)",
+        "Room": "A-315",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Islamic Studies (AI-B)",
+        "Room": "A-315",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Stat Modeling (CS-C)",
+        "Room": "A-316",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Stat Modeling (CS-B)",
+        "Room": "A-316",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "Q",
+        "Subject": "Prob & Stats (SE-Q) ReSch",
+        "Room": "A-316",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "C",
+        "Subject": "Numerical (CS-C)",
+        "Room": "A-108",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Diff Eq (CY-D) ReSch",
+        "Room": "A-108",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Diff Eq (CY-C) ReSch",
+        "Room": "A-108",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "J",
+        "Subject": "Comp Networks (AI-J)",
+        "Room": "B-130",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "J",
+        "Subject": "PDC (AI-J)",
+        "Room": "B-130",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CY",
+        "Batch": "2020",
+        "Section": "T",
+        "Subject": "VA&RE (CY-T)",
+        "Room": "B-130",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CY",
+        "Batch": "2020",
+        "Section": "T",
+        "Subject": "Net & Cy Sec-II (CY-T)",
+        "Room": "A-211",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "H",
+        "Subject": "OOP Lab (CS-H) ",
+        "Room": "C-Margala 1",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "OOP Lab (AI-D)",
+        "Room": "C-Margala 1",
+        "Timings": "OOP Lab (AI-D)"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "K",
+        "Subject": "OOP Lab (CS-K) ",
+        "Room": "C-Margala 3",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "OOP Lab (CS-F) ",
+        "Room": "C-Margala 3",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "OOP Lab (DS-C)",
+        "Room": "C-Margala 3",
+        "Timings": "OOP Lab (AI-D)"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E/V",
+        "Subject": "DB Lab (CS-E/V)",
+        "Room": "C-Margala 4",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "S",
+        "Subject": "Web Engg Lab (SE-S)",
+        "Room": "C-Margala 4",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "C/D",
+        "Subject": "DB Lab (CS-C/D)",
+        "Room": "C-Rawal 1",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "F/H",
+        "Subject": "OS Lab (CS-F/H)",
+        "Room": "C-Rawal 1",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "N",
+        "Subject": "Fund of Big Data Lab (DS-N)",
+        "Room": "Rawal 3 (B-232)",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "B",
+        "Subject": "AI Lab (CS-B)",
+        "Room": "Rawal 3 (B-232)",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "Q",
+        "Subject": "SDA Lab (SE-Q)",
+        "Room": "C-Rawal 4",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "P",
+        "Subject": "SDA Lab (SE-P)",
+        "Room": "C-Rawal 4",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "A",
+        "Subject": "AI Lab (CS-A)",
+        "Room": "C-Rawal 4",
+        "Timings": "OOP Lab (AI-D)"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CY",
+        "Batch": "2021",
+        "Section": "T",
+        "Subject": "Comp Networks Lab (CY-T)",
+        "Room": "A-Karakoram 1",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "M/U",
+        "Subject": "DB Lab (DS-M/U)",
+        "Room": "A-Karakoram 1",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "J",
+        "Subject": "OOP Lab (CS-J) ",
+        "Room": "A-Karakoram 2",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "OOP Lab (CS-G) ",
+        "Room": "A-Karakoram 2",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "AI Lab (CS-D)",
+        "Room": "A-Karakoram 2",
+        "Timings": "OOP Lab (AI-D)"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "R",
+        "Subject": "Comp Networks Lab (SE-R)",
+        "Room": "A-Karakoram 3",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "C",
+        "Subject": "AI Lab (CS-C)",
+        "Room": "A-Mehran 1",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Monday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "A1",
+        "Subject": "Comm & Pres Skills Lab (CY-A1)",
+        "Room": "A-Mehran 2",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "B1",
+        "Subject": "Comm & Pres Skills Lab (CY-B1)",
+        "Room": "A-Mehran 2",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "C1",
+        "Subject": "Comm & Pres Skills Lab (AI-C1)",
+        "Room": "A-Mehran 2",
+        "Timings": "OOP Lab (AI-D)"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "A2",
+        "Subject": "Comm & Pres Skills Lab (CY-A2)",
+        "Room": "A-CALL-1",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "B2",
+        "Subject": "Comm & Pres Skills Lab (CY-B2)",
+        "Room": "A-CALL-1",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Monday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "C2",
+        "Subject": "Comm & Pres Skills Lab (AI-C2)",
+        "Room": "A-CALL-1",
+        "Timings": "OOP Lab (AI-D)"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "C1",
+        "Subject": "Comm & Pres Skills Lab (SE-C1)",
+        "Room": "A-CALL-2",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "D1",
+        "Subject": "Comm & Pres Skills Lab (SE-D1)",
+        "Room": "A-CALL-2",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "D1",
+        "Subject": "Comm & Pres Skills Lab (DS-D1)",
+        "Room": "A-CALL-2",
+        "Timings": "OOP Lab (AI-D)"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "C2",
+        "Subject": "Comm & Pres Skills Lab (SE-C2)",
+        "Room": "A-CALL-3",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Monday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "D2",
+        "Subject": "Comm & Pres Skills Lab (SE-D2)",
+        "Room": "A-CALL-3",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Monday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "D2",
+        "Subject": "Comm & Pres Skills Lab (DS-D2)",
+        "Room": "A-CALL-3",
+        "Timings": "OOP Lab (AI-D)"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "DLD Lab (CS-F)",
+        "Room": "B-Digital",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Monday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "J",
+        "Subject": "DLD Lab (CS-J) ",
+        "Room": "B-Digital",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "OOP (CS-F)",
+        "Room": "C-301",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "DLD (CS-F)",
+        "Room": "C-301",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "Discrete (SE-E)",
+        "Room": "C-301",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "Pak Studies (CS-F)",
+        "Room": "C-301",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "Diff Eq (CS-F)",
+        "Room": "C-301",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2019",
+        "Section": "N",
+        "Subject": "Entre (DS-N)",
+        "Room": "C-301",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "Pak Studies (CS-G)",
+        "Room": "C-302",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "Diff Eq (CS-G)",
+        "Room": "C-302",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "DLD (CS-G)",
+        "Room": "C-302",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Intro to SE (SE-D)",
+        "Room": "C-302",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "OOP (CS-G)",
+        "Room": "C-302",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "H",
+        "Subject": "Diff Eq (CS-H)",
+        "Room": "C-303",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "H",
+        "Subject": "OOP (CS-H)",
+        "Room": "C-303",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "J",
+        "Subject": "COAL (AI-J)",
+        "Room": "C-303",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "H",
+        "Subject": "Pak Studies (CS-H)",
+        "Room": "C-303",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "H",
+        "Subject": "DLD (CS-H)",
+        "Room": "C-303",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "J",
+        "Subject": "Pak Studies (CS-J)",
+        "Room": "C-304",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "J",
+        "Subject": "OOP (CS-J)",
+        "Room": "C-304",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "J",
+        "Subject": "DLD (CS-J)",
+        "Room": "C-304",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "K",
+        "Subject": "COAL (AI-K)",
+        "Room": "C-304",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "J",
+        "Subject": "Diff Eq (CS-J)",
+        "Room": "C-304",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "J",
+        "Subject": "Diff Eq (CS-J)  Resch",
+        "Room": "C-304",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "K",
+        "Subject": "OOP (CS-K)",
+        "Room": "C-305",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "K",
+        "Subject": "DLD (CS-K)",
+        "Room": "C-305",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "K",
+        "Subject": "Pak Studies (CS-K)",
+        "Room": "C-305",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "K",
+        "Subject": "Diff Eq (CS-K)",
+        "Room": "C-305",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Comm & Pres Skills (CS-A)   ",
+        "Room": "C-307",
+        "Timings": "08:00-09:20"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Comm & Pres Skills (CS-B)   ",
+        "Room": "C-307",
+        "Timings": "10:50-12:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "OOP (SE-D)",
+        "Room": "C-307",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "OOP (SE-A)",
+        "Room": "C-308",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "OOP (SE-B)",
+        "Room": "C-308",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Comm & Pres Skills (CS-C)   ",
+        "Room": "C-308",
+        "Timings": "10:50-12:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "P",
+        "Subject": "AI for SE (SE-P)",
+        "Room": "C-308",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "P",
+        "Subject": "Comp Networks (SE-P)",
+        "Room": "C-308",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "C/D",
+        "Subject": "OS (CS-C/D)",
+        "Room": "C-309",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2019",
+        "Section": "J",
+        "Subject": "App Evol Comp (AI-J)",
+        "Room": "C-309",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2019",
+        "Section": "K",
+        "Subject": "App Evol Comp (AI-K)",
+        "Room": "C-309",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Discrete (AI-C)",
+        "Room": "C-309",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "Q",
+        "Subject": "Comp Networks (SE-Q)",
+        "Room": "C-309",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "Q",
+        "Subject": "AI for SE (SE-Q)",
+        "Room": "C-309",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Intro to SE (SE-B)",
+        "Room": "C-310",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Intro to SE (SE-A)",
+        "Room": "C-310",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "Numerical (CS-F)",
+        "Room": "C-310",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "Stat Modeling (CS-F)",
+        "Room": "C-310",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F/H",
+        "Subject": "Algo (CS-F/H)",
+        "Room": "C-311",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F/H",
+        "Subject": "OS (CS-F/H)",
+        "Room": "C-311",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Intro to SE (SE-C)",
+        "Room": "C-311",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "OOP (SE-C)",
+        "Room": "C-311",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Islamic Studies (SE-C)",
+        "Room": "C-401",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C/D",
+        "Subject": "Algo (CS-C/D)",
+        "Room": "C-401",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Prob & Stats (CS-A)",
+        "Room": "C-401",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Prob & Stats (CS-B)",
+        "Room": "C-401",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "Discrete (SE-G)",
+        "Room": "C-402",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "Discrete (SE-F)",
+        "Room": "C-402",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "Y",
+        "Subject": "Prob & Stats (CS-Y)",
+        "Room": "C-402",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "Z",
+        "Subject": "Prob & Stats (CS-Z)",
+        "Room": "C-402",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "OOP (AI-C)",
+        "Room": "C-403",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Islamic Studies (AI-C)",
+        "Room": "C-403",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "J",
+        "Subject": "Fund of NLP (AI-J)",
+        "Room": "C-403",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "Q",
+        "Subject": "DB (SE-Q)",
+        "Room": "C-403",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Discrete (AI-D)",
+        "Room": "C-404",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "OOP (AI-D)",
+        "Room": "C-404",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "S",
+        "Subject": "Web Engg (SE-S)",
+        "Room": "C-405",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "R",
+        "Subject": "Process Mining (SE-R)",
+        "Room": "C-405",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "R",
+        "Subject": "Web Engg (SE-R)",
+        "Room": "C-405",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "R",
+        "Subject": "Info Sec (SE-R)",
+        "Room": "C-405",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "C",
+        "Subject": "AI (CS-C)",
+        "Room": "C-406",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "C",
+        "Subject": "PDC (CS-C)",
+        "Room": "C-406",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "S",
+        "Subject": "Process Mining (SE-S)",
+        "Room": "C-406",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "S",
+        "Subject": "Info Sec (SE-S)",
+        "Room": "C-406",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Discrete (DS-D)",
+        "Room": "C-407",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Comm & Pres Skills (DS-A)   ",
+        "Room": "C-407",
+        "Timings": "09:05-10:25"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Comm & Pres Skills (DS-B)  ",
+        "Room": "C-407",
+        "Timings": "10:30-11:50"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E/V",
+        "Subject": "DB (CS-E/V)",
+        "Room": "C-408",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E/V",
+        "Subject": "Algo (CS-E/V)",
+        "Room": "C-408",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E/V",
+        "Subject": "OS (CS-E/V)",
+        "Room": "C-408",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "OOP (CY-A)",
+        "Room": "C-409",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Discrete (CY-A)",
+        "Room": "C-409",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Islamic Studies (CY-A)",
+        "Room": "C-409",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Islamic Studies (DS-A)",
+        "Room": "C-409",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Discrete (CY-B)",
+        "Room": "C-410",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "OOP (CY-B)",
+        "Room": "C-410",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Islamic Studies (CY-B)",
+        "Room": "C-410",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Islamic Studies (AI-D)",
+        "Room": "C-410",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "U",
+        "Subject": "Adv Stats (DS-U)",
+        "Room": "B-227",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "M/U",
+        "Subject": "DB (DS-M/U)",
+        "Room": "B-227",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "M",
+        "Subject": "Fund of Big Data (DS-M)",
+        "Room": "B-227",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "M",
+        "Subject": "Adv Stats (DS-M)",
+        "Room": "B-227",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "Z",
+        "Subject": "OOP (CS-Z)",
+        "Room": "B-227",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "Z",
+        "Subject": "Diff Eq (CS-Z)",
+        "Room": "B-227",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "J",
+        "Subject": "Art Neural Net (AI-J)",
+        "Room": "B-229",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "N/U",
+        "Subject": "DB (DS-N/U)",
+        "Room": "B-229",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "N",
+        "Subject": "Adv Stats (DS-N)",
+        "Room": "B-229",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "N",
+        "Subject": "Fund of Big Data (DS-N)",
+        "Room": "B-229",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "Q",
+        "Subject": "Busi Proc Engg (SE-Q)",
+        "Room": "B-230",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "Q",
+        "Subject": "SDA (SE-Q)",
+        "Room": "B-230",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "F/H",
+        "Subject": "DB (CS-F/H)",
+        "Room": "B-230",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CY",
+        "Batch": "2021",
+        "Section": "T",
+        "Subject": "Cloud Comp (CY-T)",
+        "Room": "A-301",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "G",
+        "Subject": "Prob & Stats (CS-G)",
+        "Room": "A-301",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CY",
+        "Batch": "2021",
+        "Section": "T",
+        "Subject": "TBW (CY-T)",
+        "Room": "A-301",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "P",
+        "Subject": "DB (SE-P)",
+        "Room": "A-302",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "P",
+        "Subject": "SDA (SE-P)",
+        "Room": "A-302",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "P",
+        "Subject": "Busi Proc Engg (SE-P)",
+        "Room": "A-302",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "C",
+        "Subject": "SE (CS-C)",
+        "Room": "A-302",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Diff Eq (DS-C)",
+        "Room": "A-303",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Islamic Studies (SE-D)",
+        "Room": "A-303",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C/D",
+        "Subject": "DB (CS-C/D)",
+        "Room": "A-303",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "Stat Modeling (CS-E)",
+        "Room": "A-305",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "Numerical (CS-E)",
+        "Room": "A-305",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "AI (CS-A)",
+        "Room": "A-305",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "PDC (CS-A)",
+        "Room": "A-305",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "SE (CS-A)",
+        "Room": "A-310",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "SE (CS-B)",
+        "Room": "A-310",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "PDC (CS-B)",
+        "Room": "A-310",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "AI (CS-B)",
+        "Room": "A-310",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "K",
+        "Subject": "Art Neural Net (AI-K)",
+        "Room": "A-311",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "D",
+        "Subject": "SE (CS-D)",
+        "Room": "A-311",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "D",
+        "Subject": "AI (CS-D)",
+        "Room": "A-311",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2020",
+        "Section": "N",
+        "Subject": "PDC (DS-N)",
+        "Room": "A-314",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2020",
+        "Section": "N",
+        "Subject": "AI (DS-N)",
+        "Room": "A-314",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Islamic Studies (SE-B)",
+        "Room": "A-314",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Islamic Studies (SE-A)",
+        "Room": "A-314",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "PDC (CS-D)",
+        "Room": "A-315",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Islamic Studies (DS-B)",
+        "Room": "A-315",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "OOP (DS-C)",
+        "Room": "A-315",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "OOP (DS-D)",
+        "Room": "A-315",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CY",
+        "Batch": "2020",
+        "Section": "T",
+        "Subject": "Ethical Hacking (CY-T)",
+        "Room": "A-316",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Diff Eq (AI-B)",
+        "Room": "A-108",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Diff Eq (AI-A)",
+        "Room": "A-108",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "J",
+        "Subject": "DIP (AI-J)",
+        "Room": "B-130",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "K",
+        "Subject": "Fund of NLP (AI-K)",
+        "Room": "B-130",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "K",
+        "Subject": "DIP (AI-K)",
+        "Room": "B-130",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Discrete (DS-C)",
+        "Room": "A-211",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Diff Eq (DS-D)",
+        "Room": "B-129",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "OOP Lab (CS-B) ",
+        "Room": "C-Margala 1",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "OOP Lab (CS-A) ",
+        "Room": "C-Margala 1",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "OOP Lab (CS-C) ",
+        "Room": "C-Margala 3",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "OOP Lab (CS-D) ",
+        "Room": "C-Margala 3",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "OOP Lab (CS-E) ",
+        "Room": "C-Margala 4",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "F1",
+        "Subject": "Comm & Pres Skills Lab (SE-F1)",
+        "Room": "C-Margala 4",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A/Y",
+        "Subject": "OS Lab (CS-A/Y)",
+        "Room": "C-Rawal 1",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "OS Lab (CS-G)",
+        "Room": "C-Rawal 1",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "K",
+        "Subject": "DB Lab (AI-K)",
+        "Room": "C-Rawal 1",
+        "Timings": "12:20-02:25"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CY",
+        "Batch": "2020",
+        "Section": "T",
+        "Subject": "Digital Mktg (CY-T)",
+        "Room": "Rawal 3 (B-232)",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "U",
+        "Subject": "Fund of Big Data Lab (DS-U)",
+        "Room": "Rawal 3 (B-232)",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "B2",
+        "Subject": "Comm & Pres Skills Lab (AI-B2) ReSch",
+        "Room": "Rawal 3 (B-232)",
+        "Timings": "12:20-02:25"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "AI Lab (CS-F)",
+        "Room": "C-Rawal 4",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "AI Lab (CS-E)",
+        "Room": "C-Rawal 4",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "OOP Lab (SE-F) ReSch",
+        "Room": "C-Rawal 4",
+        "Timings": "12:20-02:25"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B/Z",
+        "Subject": "DB Lab (CS-B/Z)",
+        "Room": "A-Karakoram 1",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "T",
+        "Subject": "AI Lab (CY-T)",
+        "Room": "A-Karakoram 1",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "J",
+        "Subject": "COAL Lab (AI-J)",
+        "Room": "A-Karakoram 2",
+        "Timings": "12:20-02:25"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "P",
+        "Subject": "Comp Networks Lab (SE-P)",
+        "Room": "A-Karakoram 3",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "A1",
+        "Subject": "Comm & Pres Skills Lab (AI-A1) ",
+        "Room": "A-Mehran 1",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "Q",
+        "Subject": "Web Engg Lab (SE-Q)",
+        "Room": "A-Mehran 1",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "OOP Lab (AI-B) ",
+        "Room": "A-Mehran 2",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "B1",
+        "Subject": "Comm & Pres Skills Lab (DS-B1)",
+        "Room": "A-Mehran 2",
+        "Timings": "12:20-02:25"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2020",
+        "Section": "N",
+        "Subject": "AI Lab (DS-N)",
+        "Room": "C-GPU Lab",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "A2",
+        "Subject": "Comm & Pres Skills Lab (AI-A2)",
+        "Room": "A-CALL-1",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "F2",
+        "Subject": "Comm & Pres Skills Lab (SE-F2)",
+        "Room": "A-CALL-1",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "B2",
+        "Subject": "Comm & Pres Skills Lab (DS-B2)",
+        "Room": "A-CALL-1",
+        "Timings": "12:20-02:25"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "E1",
+        "Subject": "Comm & Pres Skills Lab (SE-E1)",
+        "Room": "A-CALL-2",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "G1",
+        "Subject": "Comm & Pres Skills Lab (SE-G1)",
+        "Room": "A-CALL-2",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "A1",
+        "Subject": "Comm & Pres Skills Lab (DS-A1)",
+        "Room": "A-CALL-2",
+        "Timings": "12:20-02:25"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "E2",
+        "Subject": "Comm & Pres Skills Lab (SE-E2)",
+        "Room": "A-CALL-3",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "G2",
+        "Subject": "Comm & Pres Skills Lab (SE-G2) ",
+        "Room": "A-CALL-3",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "A2",
+        "Subject": "Comm & Pres Skills Lab (DS-A2) ",
+        "Room": "A-CALL-3",
+        "Timings": "12:40-02:45"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "DLD Lab (CS-D) ",
+        "Room": "B-Digital",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Tuesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "DLD Lab (CS-E) ",
+        "Room": "B-Digital",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "OOP (CS-A)",
+        "Room": "C-301",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "DLD (CS-A)",
+        "Room": "C-301",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Diff Eq (CS-A)",
+        "Room": "C-301",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B/Z",
+        "Subject": "DB (CS-B/Z)",
+        "Room": "C-301",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Pak Studies (CS-A)",
+        "Room": "C-301",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Pak Studies (CS-B)",
+        "Room": "C-301",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B/Z",
+        "Subject": "Algo (CS-B/Z)",
+        "Room": "C-302",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Diff Eq (CS-B)",
+        "Room": "C-302",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "DLD (CS-B)",
+        "Room": "C-302",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "OOP (CS-B)",
+        "Room": "C-302",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Diff Eq (CS-D)",
+        "Room": "C-302",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Pak Studies (CS-C)",
+        "Room": "C-303",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "OOP (CS-C)",
+        "Room": "C-303",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "DLD (CS-E)",
+        "Room": "C-303",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "Diff Eq (CS-E)",
+        "Room": "C-303",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "DLD (CS-D)",
+        "Room": "C-304",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "OOP (CS-D)",
+        "Room": "C-304",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Pak Studies (CS-D)",
+        "Room": "C-304",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Diff Eq (CS-C)",
+        "Room": "C-304",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "DLD (CS-C)",
+        "Room": "C-304",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Numerical (CS-B)",
+        "Room": "C-304",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "OOP (CS-E)",
+        "Room": "C-305",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "Pak Studies (CS-E)",
+        "Room": "C-305",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "Prob & Stats (CS-E)",
+        "Room": "C-305",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Prob & Stats (CS-D)",
+        "Room": "C-305",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "R",
+        "Subject": "Comp Networks (SE-R)",
+        "Room": "C-305",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "R",
+        "Subject": "AI for SE (SE-R)",
+        "Room": "C-305",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "H",
+        "Subject": "Comm & Pres Skills (CS-H)   ",
+        "Room": "C-307",
+        "Timings": "08:00-09:20"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Prob & Stats (CS-C)",
+        "Room": "C-307",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Discrete (DS-A)",
+        "Room": "C-307",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "S",
+        "Subject": "Comp Networks (SE-S)",
+        "Room": "C-307",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "S",
+        "Subject": "AI for SE (SE-S)",
+        "Room": "C-307",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "Comm & Pres Skills (CS-G)   ",
+        "Room": "C-308",
+        "Timings": "08:00-09:20"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "K",
+        "Subject": "Comm & Pres Skills (CS-K)  ",
+        "Room": "C-308",
+        "Timings": "10:50-12:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2020",
+        "Section": "N",
+        "Subject": "Web (DS-N)",
+        "Room": "C-308",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "OOP (CS-F) ReSch",
+        "Room": "C-308",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "Islamic Studies (SE-G)",
+        "Room": "C-309",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "Intro to SE (SE-E)",
+        "Room": "C-309",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "OOP (SE-G)",
+        "Room": "C-309",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "Intro to SE (SE-G)",
+        "Room": "C-309",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "21,C",
+        "Subject": "Fund of Mgt (CS-21,C)",
+        "Room": "C-309",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "21,C",
+        "Subject": "Fund of Mgt (CS-21,C)",
+        "Room": "C-309",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "Islamic Studies (SE-F)",
+        "Room": "C-310",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "OOP (SE-F)",
+        "Room": "C-310",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "Intro to SE (SE-F)",
+        "Room": "C-310",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "Islamic Studies (SE-E)",
+        "Room": "C-310",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CY",
+        "Batch": "2019",
+        "Section": "T",
+        "Subject": "PPIT (CY-T)",
+        "Room": "C-310",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CY",
+        "Batch": "2019",
+        "Section": "T",
+        "Subject": "Info Assurance (CY-T)",
+        "Room": "C-310",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2019",
+        "Section": "F",
+        "Subject": "Prob & Stats (CS-F)",
+        "Room": "C-311",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "OOP (DS-A)",
+        "Room": "C-311",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Discrete (SE-C)",
+        "Room": "C-311",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Diff Eq (CY-B)",
+        "Room": "C-401",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Discrete (DS-B)",
+        "Room": "C-401",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Diff Eq (DS-B)",
+        "Room": "C-401",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2019",
+        "Section": "J",
+        "Subject": "PPIT (AI-J)",
+        "Room": "C-401",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2019",
+        "Section": "J",
+        "Subject": "MLOPs (AI-J)",
+        "Room": "C-401",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "OOP (AI-A)",
+        "Room": "C-402",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Islamic Studies (AI-A)",
+        "Room": "C-402",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Diff Eq (CY-A)",
+        "Room": "C-402",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Discrete (AI-A)",
+        "Room": "C-402",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2019",
+        "Section": "K",
+        "Subject": "MLOPs (AI-K)",
+        "Room": "C-402",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2019",
+        "Section": "K",
+        "Subject": "PPIT (AI-K)",
+        "Room": "C-402",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Discrete (AI-B)",
+        "Room": "C-403",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "OOP (AI-B)",
+        "Room": "C-403",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "OOP (SE-E)",
+        "Room": "C-403",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "T",
+        "Subject": "Comp Networks (CY-T)",
+        "Room": "C-403",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "T",
+        "Subject": "Fund of SE (CY-T)",
+        "Room": "C-403",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Diff Eq (DS-A)",
+        "Room": "C-404",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Comm & Pres Skills (AI-D)   ",
+        "Room": "C-404",
+        "Timings": "09:05-10:25"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Comm & Pres Skills (AI-C)   ",
+        "Room": "C-404",
+        "Timings": "10:30-11:50"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "OOP (DS-B) |& AI-C",
+        "Room": "C-405",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Diff Eq (AI-C)",
+        "Room": "C-405",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "AI (CS-F)",
+        "Room": "C-405",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Diff Eq (AI-D)",
+        "Room": "C-405",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Diff Eq (DS-A) ReSch",
+        "Room": "C-405",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "H",
+        "Subject": "Prob & Stats (CS-H)",
+        "Room": "C-406",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2020",
+        "Section": "N",
+        "Subject": "Data Mining (DS-N) Cancelled",
+        "Room": "C-406",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2020",
+        "Section": "N",
+        "Subject": "Digital Mktg (DS-N)",
+        "Room": "C-406",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "F",
+        "Subject": "SE (CS-F)",
+        "Room": "C-406",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "A/Y",
+        "Subject": "OS (CS-A/Y)",
+        "Room": "C-407",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Islamic Studies (DS-C)",
+        "Room": "C-407",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A/Y",
+        "Subject": "DB (CS-A/Y)",
+        "Room": "C-407",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A/Y",
+        "Subject": "Algo (CS-A/Y)",
+        "Room": "C-407",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "OOP (DS-B) ReSch",
+        "Room": "C-407",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "OOP (CY-C)",
+        "Room": "C-408",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Discrete (CY-C)",
+        "Room": "C-408",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Islamic Studies (CY-C)",
+        "Room": "C-408",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Islamic Studies (CY-D)",
+        "Room": "C-408",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "Z",
+        "Subject": "OOP (CS-Z)",
+        "Room": "C-408",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "Z",
+        "Subject": "Diff Eq (CS-Z)",
+        "Room": "C-408",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Discrete (CY-D)",
+        "Room": "C-409",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "OOP (CY-D)",
+        "Room": "C-409",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "PDC (CS-E)",
+        "Room": "C-410",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "PDC (CS-F)",
+        "Room": "C-410",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "SE (CS-E)",
+        "Room": "C-410",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "AI (CS-E)",
+        "Room": "C-410",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "J",
+        "Subject": "DB (AI-J)",
+        "Room": "B-227",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "B/Z",
+        "Subject": "OS (CS-B/Z)",
+        "Room": "B-227",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "Q",
+        "Subject": "Prob & Stats (SE-Q)",
+        "Room": "B-227",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Islamic Studies (DS-D)",
+        "Room": "B-227",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "H",
+        "Subject": "OOP (CS-H) ReSch",
+        "Room": "B-227",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "OS (CS-G)",
+        "Room": "B-229",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "DB (CS-G)",
+        "Room": "B-229",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "Algo (CS-G)",
+        "Room": "B-229",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "T",
+        "Subject": "AI (CY-T)",
+        "Room": "B-229",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "P",
+        "Subject": "Mktg Mgt (SE-P)",
+        "Room": "B-230",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "P",
+        "Subject": "Prob & Stats (SE-P)",
+        "Room": "B-230",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "N",
+        "Subject": "Mktg Mgt (DS-N)",
+        "Room": "B-230",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "N",
+        "Subject": "Fund of SE (DS-N)",
+        "Room": "B-230",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "A",
+        "Subject": "Stat Modeling (CS-A)",
+        "Room": "A-301",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "A",
+        "Subject": "Numerical (CS-A)",
+        "Room": "A-301",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "J",
+        "Subject": "Fund of SE (AI-J)",
+        "Room": "A-302",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "D",
+        "Subject": "Numerical (CS-D)",
+        "Room": "A-302",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "D",
+        "Subject": "Stat Modeling (CS-D)",
+        "Room": "A-302",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "K",
+        "Subject": "Fund of SE (AI-K)",
+        "Room": "A-303",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "K",
+        "Subject": "DB (AI-K)",
+        "Room": "A-303",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "K",
+        "Subject": "AI (AI-K)",
+        "Room": "A-303",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "J",
+        "Subject": "AI (AI-J)",
+        "Room": "A-303",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "U",
+        "Subject": "Fund of SE (DS-U)",
+        "Room": "A-305",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "U",
+        "Subject": "Fund of Big Data (DS-U)",
+        "Room": "A-305",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "K",
+        "Subject": "Comp Networks (AI-K)",
+        "Room": "A-305",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "K",
+        "Subject": "PDC (AI-K)",
+        "Room": "A-305",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "M",
+        "Subject": "Fund of Mgt (DS-M)",
+        "Room": "A-310",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "M",
+        "Subject": "Fund of SE (DS-M)",
+        "Room": "A-310",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "Q",
+        "Subject": "Process Mining (SE-Q)",
+        "Room": "A-310",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "Q",
+        "Subject": "Info Sec (SE-Q)",
+        "Room": "A-310",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "P",
+        "Subject": "Process Mining (SE-P)",
+        "Room": "A-311",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "Q",
+        "Subject": "Web Engg (SE-Q)",
+        "Room": "A-311",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "P",
+        "Subject": "Web Engg (SE-P)",
+        "Room": "A-311",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "P",
+        "Subject": "Info Sec (SE-P)",
+        "Room": "A-311",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Comm & Pres Skills (DS-D)  ",
+        "Room": "A-314",
+        "Timings": "09:05-10:25"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Comm & Pres Skills (DS-C)   ",
+        "Room": "A-314",
+        "Timings": "10:30-11:50"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Discrete (SE-D)",
+        "Room": "A-315",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Islamic Studies (AI-B)",
+        "Room": "A-315",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Stat Modeling (CS-C)",
+        "Room": "A-316",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Stat Modeling (CS-B)",
+        "Room": "A-316",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Comm & Pres Skills (SE-A) Resch",
+        "Room": "A-316",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Comm & Pres Skills (SE-A) Resch",
+        "Room": "A-316",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "Comm & Pres SKills (SE-F) ReSch",
+        "Room": "A-316",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Numerical (CS-C)",
+        "Room": "A-108",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "OOP (AI-B) ReSch",
+        "Room": "A-108",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "J",
+        "Subject": "Comp Networks (AI-J)",
+        "Room": "B-130",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "J",
+        "Subject": "PDC (AI-J)",
+        "Room": "B-130",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CY",
+        "Batch": "2020",
+        "Section": "T",
+        "Subject": "VA&RE (CY-T)",
+        "Room": "B-130",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CY",
+        "Batch": "2020",
+        "Section": "T",
+        "Subject": "Net & Cy Sec-II (CY-T)",
+        "Room": "A-211",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "H",
+        "Subject": "OOP Lab (CS-H) ",
+        "Room": "C-Margala 1",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "OOP Lab (AI-D)",
+        "Room": "C-Margala 1",
+        "Timings": "OOP Lab (AI-D)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "K",
+        "Subject": "OOP Lab (CS-K) ",
+        "Room": "C-Margala 3",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "OOP Lab (CS-F) ",
+        "Room": "C-Margala 3",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "OOP Lab (DS-C)",
+        "Room": "C-Margala 3",
+        "Timings": "OOP Lab (AI-D)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E/V",
+        "Subject": "DB Lab (CS-E/V)",
+        "Room": "C-Margala 4",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "S",
+        "Subject": "Web Engg Lab (SE-S)",
+        "Room": "C-Margala 4",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "C/D",
+        "Subject": "DB Lab (CS-C/D)",
+        "Room": "C-Rawal 1",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "F/H",
+        "Subject": "OS Lab (CS-F/H)",
+        "Room": "C-Rawal 1",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "N",
+        "Subject": "Fund of Big Data Lab (DS-N)",
+        "Room": "Rawal 3 (B-232)",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "B",
+        "Subject": "AI Lab (CS-B)",
+        "Room": "Rawal 3 (B-232)",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "OOP Lab (SE-D) ReSch",
+        "Room": "Rawal 3 (B-232)",
+        "Timings": "OOP Lab (AI-D)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "Q",
+        "Subject": "SDA Lab (SE-Q)",
+        "Room": "C-Rawal 4",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "P",
+        "Subject": "SDA Lab (SE-P)",
+        "Room": "C-Rawal 4",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "A",
+        "Subject": "AI Lab (CS-A)",
+        "Room": "C-Rawal 4",
+        "Timings": "OOP Lab (AI-D)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CY",
+        "Batch": "2021",
+        "Section": "T",
+        "Subject": "Comp Networks Lab (CY-T)",
+        "Room": "A-Karakoram 1",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "M/U",
+        "Subject": "DB Lab (DS-M/U)",
+        "Room": "A-Karakoram 1",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "J",
+        "Subject": "OOP Lab (CS-J) ",
+        "Room": "A-Karakoram 2",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "OOP Lab (CS-G) ",
+        "Room": "A-Karakoram 2",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "AI Lab (CS-D)",
+        "Room": "A-Karakoram 2",
+        "Timings": "OOP Lab (AI-D)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "R",
+        "Subject": "Comp Networks Lab (SE-R)",
+        "Room": "A-Karakoram 3",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "C",
+        "Subject": "AI Lab (CS-C)",
+        "Room": "A-Mehran 1",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "A1",
+        "Subject": "Comm & Pres Skills Lab (CY-A1)",
+        "Room": "A-Mehran 2",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "B1",
+        "Subject": "Comm & Pres Skills Lab (CY-B1)",
+        "Room": "A-Mehran 2",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "C1",
+        "Subject": "Comm & Pres Skills Lab (AI-C1)",
+        "Room": "A-Mehran 2",
+        "Timings": "OOP Lab (AI-D)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "A2",
+        "Subject": "Comm & Pres Skills Lab (CY-A2)",
+        "Room": "A-CALL-1",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "B2",
+        "Subject": "Comm & Pres Skills Lab (CY-B2)",
+        "Room": "A-CALL-1",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "C2",
+        "Subject": "Comm & Pres Skills Lab (AI-C2)",
+        "Room": "A-CALL-1",
+        "Timings": "OOP Lab (AI-D)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "C1",
+        "Subject": "Comm & Pres Skills Lab (SE-C1)",
+        "Room": "A-CALL-2",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "D1",
+        "Subject": "Comm & Pres Skills Lab (SE-D1)",
+        "Room": "A-CALL-2",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "D1",
+        "Subject": "Comm & Pres Skills Lab (DS-D1)",
+        "Room": "A-CALL-2",
+        "Timings": "OOP Lab (AI-D)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "C2",
+        "Subject": "Comm & Pres Skills Lab (SE-C2)",
+        "Room": "A-CALL-3",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "D2",
+        "Subject": "Comm & Pres Skills Lab (SE-D2)",
+        "Room": "A-CALL-3",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "D2",
+        "Subject": "Comm & Pres Skills Lab (DS-D2)",
+        "Room": "A-CALL-3",
+        "Timings": "OOP Lab (AI-D)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "DLD Lab (CS-F)",
+        "Room": "B-Digital",
+        "Timings": "DBA (19-A)"
+    },
+    {
+        "Day": "Wednesday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "J",
+        "Subject": "DLD Lab (CS-J) ",
+        "Room": "B-Digital",
+        "Timings": "OOP Lab (CS-H) "
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "OOP (CS-F)",
+        "Room": "C-301",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "DLD (CS-F)",
+        "Room": "C-301",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "Discrete (SE-E)",
+        "Room": "C-301",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "Pak Studies (CS-F)",
+        "Room": "C-301",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "Diff Eq (CS-F)",
+        "Room": "C-301",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2019",
+        "Section": "N",
+        "Subject": "Entre (DS-N)",
+        "Room": "C-301",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "Pak Studies (CS-G)",
+        "Room": "C-302",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "Diff Eq (CS-G)",
+        "Room": "C-302",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "DLD (CS-G)",
+        "Room": "C-302",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Intro to SE (SE-D)",
+        "Room": "C-302",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "OOP (CS-G)",
+        "Room": "C-302",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "H",
+        "Subject": "Diff Eq (CS-H)",
+        "Room": "C-303",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "H",
+        "Subject": "OOP (CS-H)",
+        "Room": "C-303",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "J",
+        "Subject": "COAL (AI-J)",
+        "Room": "C-303",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "H",
+        "Subject": "Pak Studies (CS-H)",
+        "Room": "C-303",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "H",
+        "Subject": "DLD (CS-H)",
+        "Room": "C-303",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "J",
+        "Subject": "Pak Studies (CS-J)",
+        "Room": "C-304",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "J",
+        "Subject": "OOP (CS-J)",
+        "Room": "C-304",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "J",
+        "Subject": "DLD (CS-J)",
+        "Room": "C-304",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "K",
+        "Subject": "COAL (AI-K)",
+        "Room": "C-304",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "J",
+        "Subject": "Diff Eq (CS-J)",
+        "Room": "C-304",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Diff Eq (CS-A)  Resch",
+        "Room": "C-304",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "K",
+        "Subject": "OOP (CS-K)",
+        "Room": "C-305",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "K",
+        "Subject": "DLD (CS-K)",
+        "Room": "C-305",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "K",
+        "Subject": "Pak Studies (CS-K)",
+        "Room": "C-305",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "K",
+        "Subject": "Diff Eq (CS-K)",
+        "Room": "C-305",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Comm & Pres Skills (CS-A)   ",
+        "Room": "C-307",
+        "Timings": "08:00-09:20"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Comm & Pres Skills (CS-B)   ",
+        "Room": "C-307",
+        "Timings": "10:50-12:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "OOP (SE-D)",
+        "Room": "C-307",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "OOP (SE-A)",
+        "Room": "C-308",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "OOP (SE-B)",
+        "Room": "C-308",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Comm & Pres Skills (CS-C)   ",
+        "Room": "C-308",
+        "Timings": "10:50-12:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "P",
+        "Subject": "AI for SE (SE-P)",
+        "Room": "C-308",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "P",
+        "Subject": "Comp Networks (SE-P)",
+        "Room": "C-308",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "C/D",
+        "Subject": "OS (CS-C/D)",
+        "Room": "C-309",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2019",
+        "Section": "J",
+        "Subject": "App Evol Comp (AI-J)",
+        "Room": "C-309",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2019",
+        "Section": "K",
+        "Subject": "App Evol Comp (AI-K)",
+        "Room": "C-309",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Discrete (AI-C)",
+        "Room": "C-309",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "Q",
+        "Subject": "Comp Networks (SE-Q)",
+        "Room": "C-309",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "Q",
+        "Subject": "AI for SE (SE-Q)",
+        "Room": "C-309",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Intro to SE (SE-B)",
+        "Room": "C-310",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Intro to SE (SE-A)",
+        "Room": "C-310",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "Numerical (CS-F)",
+        "Room": "C-310",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "Stat Modeling (CS-F)",
+        "Room": "C-310",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F/H",
+        "Subject": "Algo (CS-F/H)",
+        "Room": "C-311",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F/H",
+        "Subject": "OS (CS-F/H)",
+        "Room": "C-311",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Intro to SE (SE-C)",
+        "Room": "C-311",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "OOP (SE-C)",
+        "Room": "C-311",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Islamic Studies (SE-C)",
+        "Room": "C-401",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C/D",
+        "Subject": "Algo (CS-C/D)",
+        "Room": "C-401",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Prob & Stats (CS-A)",
+        "Room": "C-401",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Prob & Stats (CS-B)",
+        "Room": "C-401",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "Discrete (SE-G)",
+        "Room": "C-402",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "Discrete (SE-F)",
+        "Room": "C-402",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "Y",
+        "Subject": "Prob & Stats (CS-Y)",
+        "Room": "C-402",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "Z",
+        "Subject": "Prob & Stats (CS-Z)",
+        "Room": "C-402",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "OOP (AI-C)",
+        "Room": "C-403",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Islamic Studies (AI-C)",
+        "Room": "C-403",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "J",
+        "Subject": "Fund of NLP (AI-J)",
+        "Room": "C-403",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "Q",
+        "Subject": "DB (SE-Q)",
+        "Room": "C-403",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Discrete (AI-D)",
+        "Room": "C-404",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "OOP (AI-D)",
+        "Room": "C-404",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "S",
+        "Subject": "Web Engg (SE-S)",
+        "Room": "C-405",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "R",
+        "Subject": "Process Mining (SE-R)",
+        "Room": "C-405",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "R",
+        "Subject": "Web Engg (SE-R)",
+        "Room": "C-405",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "R",
+        "Subject": "Info Sec (SE-R)",
+        "Room": "C-405",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "C",
+        "Subject": "AI (CS-C)",
+        "Room": "C-406",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "C",
+        "Subject": "PDC (CS-C)",
+        "Room": "C-406",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "S",
+        "Subject": "Process Mining (SE-S)",
+        "Room": "C-406",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "S",
+        "Subject": "Info Sec (SE-S)",
+        "Room": "C-406",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Discrete (DS-D)",
+        "Room": "C-407",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Comm & Pres Skills (DS-A)   ",
+        "Room": "C-407",
+        "Timings": "09:05-10:25"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Comm & Pres Skills (DS-B)  ",
+        "Room": "C-407",
+        "Timings": "10:30-11:50"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E/V",
+        "Subject": "DB (CS-E/V)",
+        "Room": "C-408",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E/V",
+        "Subject": "Algo (CS-E/V)",
+        "Room": "C-408",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E/V",
+        "Subject": "OS (CS-E/V)",
+        "Room": "C-408",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "OOP (CY-A)",
+        "Room": "C-409",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Discrete (CY-A)",
+        "Room": "C-409",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Islamic Studies (CY-A)",
+        "Room": "C-409",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Islamic Studies (DS-A)",
+        "Room": "C-409",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Discrete (CY-B)",
+        "Room": "C-410",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "OOP (CY-B)",
+        "Room": "C-410",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Islamic Studies (CY-B)",
+        "Room": "C-410",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Islamic Studies (AI-D)",
+        "Room": "C-410",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "U",
+        "Subject": "Adv Stats (DS-U)",
+        "Room": "B-227",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "M/U",
+        "Subject": "DB (DS-M/U)",
+        "Room": "B-227",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "M",
+        "Subject": "Fund of Big Data (DS-M)",
+        "Room": "B-227",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "M",
+        "Subject": "Adv Stats (DS-M)",
+        "Room": "B-227",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "Z",
+        "Subject": "OOP (CS-Z)",
+        "Room": "B-227",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "Z",
+        "Subject": "Diff Eq (CS-Z)",
+        "Room": "B-227",
+        "Timings": "01:45-02:45"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "J",
+        "Subject": "Art Neural Net (AI-J)",
+        "Room": "B-229",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "N/U",
+        "Subject": "DB (DS-N/U)",
+        "Room": "B-229",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "N",
+        "Subject": "Adv Stats (DS-N)",
+        "Room": "B-229",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "N",
+        "Subject": "Fund of Big Data (DS-N)",
+        "Room": "B-229",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "OOP (AI-D) ReSch",
+        "Room": "B-229",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "Q",
+        "Subject": "Busi Proc Engg (SE-Q)",
+        "Room": "B-230",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "Q",
+        "Subject": "SDA (SE-Q)",
+        "Room": "B-230",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "F/H",
+        "Subject": "DB (CS-F/H)",
+        "Room": "B-230",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2019",
+        "Section": "N",
+        "Subject": "Entre (DS-N) ReSch",
+        "Room": "B-230",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CY",
+        "Batch": "2019",
+        "Section": "T",
+        "Subject": "Cloud Comp (CY-T)",
+        "Room": "A-301",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2019",
+        "Section": "G",
+        "Subject": "Prob & Stats (CS-G)",
+        "Room": "A-301",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CY",
+        "Batch": "2019",
+        "Section": "T",
+        "Subject": "TBW (CY-T)",
+        "Room": "A-301",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "P",
+        "Subject": "DB (SE-P)",
+        "Room": "A-302",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "P",
+        "Subject": "SDA (SE-P)",
+        "Room": "A-302",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "P",
+        "Subject": "Busi Proc Engg (SE-P)",
+        "Room": "A-302",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2021",
+        "Section": "C",
+        "Subject": "SE (CS-C)",
+        "Room": "A-302",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Diff Eq (DS-C)",
+        "Room": "A-303",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Islamic Studies (SE-D)",
+        "Room": "A-303",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C/D",
+        "Subject": "DB (CS-C/D)",
+        "Room": "A-303",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "Stat Modeling (CS-E)",
+        "Room": "A-305",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "Numerical (CS-E)",
+        "Room": "A-305",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "AI (CS-A)",
+        "Room": "A-305",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "PDC (CS-A)",
+        "Room": "A-305",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "SE (CS-A)",
+        "Room": "A-310",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "SE (CS-B)",
+        "Room": "A-310",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "PDC (CS-B)",
+        "Room": "A-310",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "AI (CS-B)",
+        "Room": "A-310",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "K",
+        "Subject": "Art Neural Net (AI-K)",
+        "Room": "A-311",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "D",
+        "Subject": "SE (CS-D)",
+        "Room": "A-311",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2020",
+        "Section": "D",
+        "Subject": "AI (CS-D)",
+        "Room": "A-311",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2020",
+        "Section": "N",
+        "Subject": "PDC (DS-N)",
+        "Room": "A-314",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2020",
+        "Section": "N",
+        "Subject": "AI (DS-N)",
+        "Room": "A-314",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Islamic Studies (SE-B)",
+        "Room": "A-314",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Islamic Studies (SE-A)",
+        "Room": "A-314",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "PDC (CS-D)",
+        "Room": "A-315",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Islamic Studies (DS-B)",
+        "Room": "A-315",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "OOP (DS-C)",
+        "Room": "A-315",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "OOP (DS-D)",
+        "Room": "A-315",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CY",
+        "Batch": "2020",
+        "Section": "T",
+        "Subject": "Ethical Hacking (CY-T)",
+        "Room": "A-316",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Islamic Studies (SE-B)   Resch",
+        "Room": "A-316",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Diff Eq (AI-B)",
+        "Room": "A-108",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Diff Eq (AI-A)",
+        "Room": "A-108",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Islamic Studies (DS-B)  Resch",
+        "Room": "B-130",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "J",
+        "Subject": "DIP (AI-J)",
+        "Room": "B-130",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "K",
+        "Subject": "Fund of NLP (AI-K)",
+        "Room": "B-130",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "K",
+        "Subject": "DIP (AI-K)",
+        "Room": "B-130",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "Comm & Pres SKills (SE-F) ReSch",
+        "Room": "A-211",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Discrete (DS-C)",
+        "Room": "A-211",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Comm & Pres SKills (SE-C) ReSch",
+        "Room": "B-129",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Diff Eq (DS-D)",
+        "Room": "B-129",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "OOP Lab (CS-B) ",
+        "Room": "C-Margala 1",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "OOP Lab (CS-A) ",
+        "Room": "C-Margala 1",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "OOP Lab (CS-C) ",
+        "Room": "C-Margala 3",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "OOP Lab (CS-D) ",
+        "Room": "C-Margala 3",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "OOP Lab (CS-E) ",
+        "Room": "C-Margala 4",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "F1",
+        "Subject": "Comm & Pres Skills Lab (SE-F1)",
+        "Room": "C-Margala 4",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "A/Y",
+        "Subject": "OS Lab (CS-A/Y)",
+        "Room": "C-Rawal 1",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "G",
+        "Subject": "OS Lab (CS-G)",
+        "Room": "C-Rawal 1",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "K",
+        "Subject": "DB Lab (AI-K)",
+        "Room": "C-Rawal 1",
+        "Timings": "12:20-02:25"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CY",
+        "Batch": "2020",
+        "Section": "T",
+        "Subject": "Digital Mktg (CY-T)",
+        "Room": "Rawal 3 (B-232)",
+        "Timings": "09:05-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2021",
+        "Section": "U",
+        "Subject": "Fund of Big Data Lab (DS-U)",
+        "Room": "Rawal 3 (B-232)",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "OOP Lab (SE-E) ReSch",
+        "Room": "Rawal 3 (B-232)",
+        "Timings": "12:20-02:25"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "F",
+        "Subject": "AI Lab (CS-F)",
+        "Room": "C-Rawal 4",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "AI Lab (CS-E)",
+        "Room": "C-Rawal 4",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "B2",
+        "Subject": "Comm & Pres Skills Lab (AI-B2) ReSch",
+        "Room": "C-Rawal 4",
+        "Timings": "12:20-02:25"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "B/Z",
+        "Subject": "DB Lab (CS-B/Z)",
+        "Room": "A-Karakoram 1",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2020",
+        "Section": "T",
+        "Subject": "AI Lab (CY-T)",
+        "Room": "A-Karakoram 1",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2021",
+        "Section": "J",
+        "Subject": "COAL Lab (AI-J)",
+        "Room": "A-Karakoram 2",
+        "Timings": "12:20-02:25"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "P",
+        "Subject": "Comp Networks Lab (SE-P)",
+        "Room": "A-Karakoram 3",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "A1",
+        "Subject": "Comm & Pres Skills Lab (AI-A1) ",
+        "Room": "A-Mehran 1",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2020",
+        "Section": "Q",
+        "Subject": "Web Engg Lab (SE-Q)",
+        "Room": "A-Mehran 1",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "OOP Lab (AI-B) ",
+        "Room": "A-Mehran 2",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "B1",
+        "Subject": "Comm & Pres Skills Lab (DS-B1)",
+        "Room": "A-Mehran 2",
+        "Timings": "12:20-02:25"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2020",
+        "Section": "N",
+        "Subject": "AI Lab (DS-N)",
+        "Room": "C-GPU Lab",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "AI",
+        "Batch": "2022",
+        "Section": "A2",
+        "Subject": "Comm & Pres Skills Lab (AI-A2)",
+        "Room": "A-CALL-1",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "F2",
+        "Subject": "Comm & Pres Skills Lab (SE-F2)",
+        "Room": "A-CALL-1",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "B2",
+        "Subject": "Comm & Pres Skills Lab (DS-B2)",
+        "Room": "A-CALL-1",
+        "Timings": "12:20-02:25"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "E1",
+        "Subject": "Comm & Pres Skills Lab (SE-E1)",
+        "Room": "A-CALL-2",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "G1",
+        "Subject": "Comm & Pres Skills Lab (SE-G1)",
+        "Room": "A-CALL-2",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "A1",
+        "Subject": "Comm & Pres Skills Lab (DS-A1)",
+        "Room": "A-CALL-2",
+        "Timings": "12:20-02:25"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "E2",
+        "Subject": "Comm & Pres Skills Lab (SE-E2)",
+        "Room": "A-CALL-3",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "G2",
+        "Subject": "Comm & Pres Skills Lab (SE-G2) ",
+        "Room": "A-CALL-3",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "A2",
+        "Subject": "Comm & Pres Skills Lab (DS-A2) ",
+        "Room": "A-CALL-3",
+        "Timings": "12:40-02:45"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "DLD Lab (CS-D) ",
+        "Room": "B-Digital",
+        "Timings": "08:00-10:05"
+    },
+    {
+        "Day": "Thursday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "E",
+        "Subject": "DLD Lab (CS-E) ",
+        "Room": "B-Digital",
+        "Timings": "10:10-12:15"
+    },
+    {
+        "Day": "Friday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "B",
+        "Subject": "Discrete (SE-B) ",
+        "Room": "C-301",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Friday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "A",
+        "Subject": "Discrete (SE-A)",
+        "Room": "C-301",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Friday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "21, A",
+        "Subject": "Psychology (CS-21, A)",
+        "Room": "C-301",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Friday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "21, A",
+        "Subject": "Psychology (CS-21, A)",
+        "Room": "C-301",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Friday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Comm & Pres Skills (CY-D)   ",
+        "Room": "C-302",
+        "Timings": "09:15-10:35"
+    },
+    {
+        "Day": "Friday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Comm & Pres Skills (CY-C) ",
+        "Room": "C-302",
+        "Timings": "11:15-12:35"
+    },
+    {
+        "Day": "Friday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "D",
+        "Subject": "Diff Eq (CY-D)",
+        "Room": "C-303",
+        "Timings": "08:00-09:00"
+    },
+    {
+        "Day": "Friday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "C",
+        "Subject": "Diff Eq (CY-C)",
+        "Room": "C-303",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Friday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "21, A",
+        "Subject": "German Lang (CS-21, A) ",
+        "Room": "C-304",
+        "Timings": "09:05-11:10"
+    },
+    {
+        "Day": "Friday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "21,C",
+        "Subject": "Mktg Mgt (CS-21,C)",
+        "Room": "C-304",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Friday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "21,C",
+        "Subject": "Mktg Mgt (CS-21,C)",
+        "Room": "C-304",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Friday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "21,A",
+        "Subject": "Mktg Mgt (CS-21,A) ",
+        "Room": "C-305",
+        "Timings": "09:05-11:10"
+    },
+    {
+        "Day": "Friday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "21,A",
+        "Subject": "Fund of Mgt (CS-21,A)",
+        "Room": "C-305",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Friday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "21,A",
+        "Subject": "Fund of Mgt (CS-21,A)",
+        "Room": "C-305",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Friday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "21,D",
+        "Subject": "Fund of Mgt (CS-21,D)",
+        "Room": "C-307",
+        "Timings": "11:15-12:15"
+    },
+    {
+        "Day": "Friday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "21,D",
+        "Subject": "Fund of Mgt (CS-21,D)",
+        "Room": "C-307",
+        "Timings": "12:20-01:20"
+    },
+    {
+        "Day": "Friday",
+        "Department": "SE",
+        "Batch": "2021",
+        "Section": "P",
+        "Subject": "Prob & Stats (SE-P) ReSch",
+        "Room": "B-230",
+        "Timings": "10:10-11:10"
+    },
+    {
+        "Day": "Friday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "D2",
+        "Subject": "Comm & Pres Skills Lab (SE-D2) ReSch",
+        "Room": "C-Margala 3",
+        "Timings": "Machine Learning Lab"
+    },
+    {
+        "Day": "Friday",
+        "Department": "CS",
+        "Batch": "2022",
+        "Section": "Z",
+        "Subject": "OOP Lab (CS-Z)",
+        "Room": "C-Margala 4",
+        "Timings": "OOP Lab (CS-Z)"
+    },
+    {
+        "Day": "Friday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "C2",
+        "Subject": "Comm & Pres Skills Lab (CY-C2)",
+        "Room": "Rawal 3 (B-232)",
+        "Timings": "OOP Lab (CS-Z)"
+    },
+    {
+        "Day": "Friday",
+        "Department": "DS",
+        "Batch": "2022",
+        "Section": "C1",
+        "Subject": "Comm & Pres Skills Lab (DS-C1) ReSch",
+        "Room": "C-Rawal 4",
+        "Timings": "OOP Lab (CS-Z)"
+    },
+    {
+        "Day": "Friday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "C1",
+        "Subject": "Comm & Pres Skills Lab (CY-C1)",
+        "Room": "A-Mehran 1",
+        "Timings": "OOP Lab (CS-Z)"
+    },
+    {
+        "Day": "Friday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "A1",
+        "Subject": "Comm & Pres Skills Lab (SE-A1)",
+        "Room": "A-Mehran 2",
+        "Timings": "OOP Lab (CS-Z)"
+    },
+    {
+        "Day": "Friday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "D1",
+        "Subject": "Comm & Pres Skills Lab (CY-D1)",
+        "Room": "A-Mehran 2",
+        "Timings": "Machine Learning Lab"
+    },
+    {
+        "Day": "Friday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "A2",
+        "Subject": "Comm & Pres Skills Lab (SE-A2)",
+        "Room": "A-CALL-1",
+        "Timings": "OOP Lab (CS-Z)"
+    },
+    {
+        "Day": "Friday",
+        "Department": "CY",
+        "Batch": "2022",
+        "Section": "D2",
+        "Subject": "Comm & Pres Skills Lab (CY-D2)",
+        "Room": "A-CALL-1",
+        "Timings": "Machine Learning Lab"
+    },
+    {
+        "Day": "Friday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "B1",
+        "Subject": "Comm & Pres Skills Lab (SE-B1) ",
+        "Room": "A-CALL-2",
+        "Timings": "09:05-11:10"
+    },
+    {
+        "Day": "Friday",
+        "Department": "SE",
+        "Batch": "2022",
+        "Section": "B2",
+        "Subject": "Comm & Pres Skills Lab (SE-B2) ",
+        "Room": "A-CALL-3",
+        "Timings": "09:05-11:10"
+    }
+]
