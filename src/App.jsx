@@ -70,7 +70,7 @@ function App() {
             {/* Heading */}
             <div className="headings">
                 <h1>Fast Time Table 📆</h1>
-                <h2>Coming Soon!</h2>
+                <h2>Easily generate your semester schedule!</h2>
             </div>
 
             {/* Input Section */}
