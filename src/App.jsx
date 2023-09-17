@@ -1,8 +1,13 @@
 import "@picocss/pico/css/pico.css";
 import { useState } from "react";
 import timetable from "./assets/timetable.json";
+// import { gapi } from "gapi-script";
 
 function App() {
+//     const calendarID = process.env.REACT_APP_CALENDAR_ID;
+//     const apiKey = process.env.REACT_APP_GOOGLE_API_KEY;
+//     const accessToken = process.env.REACT_APP_GOOGLE_ACCESS_TOKEN;
+
     const options = [
         "A",
         "B",
@@ -44,8 +49,18 @@ function App() {
                 course.Batch === batch &&
                 course.Section.includes(section)
             ) {
-                // display timetable in a table
-                console.log(course.Day, course.Room, course.Subject, course.Timings);
+                // loop and display in a table
+                const table = document.getElementById("table");
+                const row = table.insertRow();
+                const day = row.insertCell();
+                const room = row.insertCell();
+                const subject = row.insertCell();
+                const timings = row.insertCell();
+
+                day.innerHTML = course.Day;
+                room.innerHTML = course.Room;
+                subject.innerHTML = course.Subject;
+                timings.innerHTML = course.Timings;
             }
         });
     };
@@ -106,7 +121,11 @@ function App() {
                         }}
                     >
                         {options.map((option, index) => {
-                            return <option value={option} key={index}>{option}</option>;
+                            return (
+                                <option value={option} key={index}>
+                                    {option}
+                                </option>
+                            );
                         })}
                     </select>
                 </label>
@@ -122,6 +141,21 @@ function App() {
             >
                 Submit
             </button>
+
+            <br></br>
+
+            {/* Table */}
+            <table id="table">
+                <thead>
+                    <tr>
+                        <th>Day</th>
+                        <th>Room</th>
+                        <th>Subject</th>
+                        <th>Timings</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
         </main>
     );
 }

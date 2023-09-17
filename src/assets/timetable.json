@@ -1275,7 +1275,7 @@
         "Section": "H",
         "Subject": "OOP Lab (CS-H) ",
         "Room": "C-Margala 1",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Monday",
@@ -1284,7 +1284,7 @@
         "Section": "D",
         "Subject": "OOP Lab (AI-D)",
         "Room": "C-Margala 1",
-        "Timings": "OOP Lab (AI-D)"
+        "Timings": "12:20-02:25"
     },
     {
         "Day": "Monday",
@@ -1293,7 +1293,7 @@
         "Section": "K",
         "Subject": "OOP Lab (CS-K) ",
         "Room": "C-Margala 3",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Monday",
@@ -1302,7 +1302,7 @@
         "Section": "F",
         "Subject": "OOP Lab (CS-F) ",
         "Room": "C-Margala 3",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Monday",
@@ -1311,7 +1311,7 @@
         "Section": "C",
         "Subject": "OOP Lab (DS-C)",
         "Room": "C-Margala 3",
-        "Timings": "OOP Lab (AI-D)"
+        "Timings": "12:20-02:25"
     },
     {
         "Day": "Monday",
@@ -1320,7 +1320,7 @@
         "Section": "E/V",
         "Subject": "DB Lab (CS-E/V)",
         "Room": "C-Margala 4",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Monday",
@@ -1329,7 +1329,7 @@
         "Section": "S",
         "Subject": "Web Engg Lab (SE-S)",
         "Room": "C-Margala 4",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Monday",
@@ -1338,7 +1338,7 @@
         "Section": "C/D",
         "Subject": "DB Lab (CS-C/D)",
         "Room": "C-Rawal 1",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Monday",
@@ -1347,7 +1347,7 @@
         "Section": "F/H",
         "Subject": "OS Lab (CS-F/H)",
         "Room": "C-Rawal 1",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Monday",
@@ -1356,7 +1356,7 @@
         "Section": "N",
         "Subject": "Fund of Big Data Lab (DS-N)",
         "Room": "Rawal 3 (B-232)",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Monday",
@@ -1365,7 +1365,7 @@
         "Section": "B",
         "Subject": "AI Lab (CS-B)",
         "Room": "Rawal 3 (B-232)",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Monday",
@@ -1374,7 +1374,7 @@
         "Section": "Q",
         "Subject": "SDA Lab (SE-Q)",
         "Room": "C-Rawal 4",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Monday",
@@ -1383,7 +1383,7 @@
         "Section": "P",
         "Subject": "SDA Lab (SE-P)",
         "Room": "C-Rawal 4",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Monday",
@@ -1392,7 +1392,7 @@
         "Section": "A",
         "Subject": "AI Lab (CS-A)",
         "Room": "C-Rawal 4",
-        "Timings": "OOP Lab (AI-D)"
+        "Timings": "12:20-02:25"
     },
     {
         "Day": "Monday",
@@ -1401,7 +1401,7 @@
         "Section": "T",
         "Subject": "Comp Networks Lab (CY-T)",
         "Room": "A-Karakoram 1",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Monday",
@@ -1410,7 +1410,7 @@
         "Section": "M/U",
         "Subject": "DB Lab (DS-M/U)",
         "Room": "A-Karakoram 1",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Monday",
@@ -1419,7 +1419,7 @@
         "Section": "J",
         "Subject": "OOP Lab (CS-J) ",
         "Room": "A-Karakoram 2",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Monday",
@@ -1428,7 +1428,7 @@
         "Section": "G",
         "Subject": "OOP Lab (CS-G) ",
         "Room": "A-Karakoram 2",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Monday",
@@ -1437,7 +1437,7 @@
         "Section": "D",
         "Subject": "AI Lab (CS-D)",
         "Room": "A-Karakoram 2",
-        "Timings": "OOP Lab (AI-D)"
+        "Timings": "12:20-02:25"
     },
     {
         "Day": "Monday",
@@ -1446,7 +1446,7 @@
         "Section": "R",
         "Subject": "Comp Networks Lab (SE-R)",
         "Room": "A-Karakoram 3",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Monday",
@@ -1455,7 +1455,7 @@
         "Section": "C",
         "Subject": "AI Lab (CS-C)",
         "Room": "A-Mehran 1",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Monday",
@@ -1464,7 +1464,7 @@
         "Section": "A1",
         "Subject": "Comm & Pres Skills Lab (CY-A1)",
         "Room": "A-Mehran 2",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Monday",
@@ -1473,7 +1473,7 @@
         "Section": "B1",
         "Subject": "Comm & Pres Skills Lab (CY-B1)",
         "Room": "A-Mehran 2",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Monday",
@@ -1482,7 +1482,7 @@
         "Section": "C1",
         "Subject": "Comm & Pres Skills Lab (AI-C1)",
         "Room": "A-Mehran 2",
-        "Timings": "OOP Lab (AI-D)"
+        "Timings": "12:20-02:25"
     },
     {
         "Day": "Monday",
@@ -1491,7 +1491,7 @@
         "Section": "A2",
         "Subject": "Comm & Pres Skills Lab (CY-A2)",
         "Room": "A-CALL-1",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Monday",
@@ -1500,7 +1500,7 @@
         "Section": "B2",
         "Subject": "Comm & Pres Skills Lab (CY-B2)",
         "Room": "A-CALL-1",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Monday",
@@ -1509,7 +1509,7 @@
         "Section": "C2",
         "Subject": "Comm & Pres Skills Lab (AI-C2)",
         "Room": "A-CALL-1",
-        "Timings": "OOP Lab (AI-D)"
+        "Timings": "12:20-02:25"
     },
     {
         "Day": "Monday",
@@ -1518,7 +1518,7 @@
         "Section": "C1",
         "Subject": "Comm & Pres Skills Lab (SE-C1)",
         "Room": "A-CALL-2",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Monday",
@@ -1527,7 +1527,7 @@
         "Section": "D1",
         "Subject": "Comm & Pres Skills Lab (SE-D1)",
         "Room": "A-CALL-2",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Monday",
@@ -1536,7 +1536,7 @@
         "Section": "D1",
         "Subject": "Comm & Pres Skills Lab (DS-D1)",
         "Room": "A-CALL-2",
-        "Timings": "OOP Lab (AI-D)"
+        "Timings": "12:20-02:25"
     },
     {
         "Day": "Monday",
@@ -1545,7 +1545,7 @@
         "Section": "C2",
         "Subject": "Comm & Pres Skills Lab (SE-C2)",
         "Room": "A-CALL-3",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Monday",
@@ -1554,7 +1554,7 @@
         "Section": "D2",
         "Subject": "Comm & Pres Skills Lab (SE-D2)",
         "Room": "A-CALL-3",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Monday",
@@ -1563,7 +1563,7 @@
         "Section": "D2",
         "Subject": "Comm & Pres Skills Lab (DS-D2)",
         "Room": "A-CALL-3",
-        "Timings": "OOP Lab (AI-D)"
+        "Timings": "12:20-02:25"
     },
     {
         "Day": "Monday",
@@ -1572,7 +1572,7 @@
         "Section": "F",
         "Subject": "DLD Lab (CS-F)",
         "Room": "B-Digital",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Monday",
@@ -1581,7 +1581,7 @@
         "Section": "J",
         "Subject": "DLD Lab (CS-J) ",
         "Room": "B-Digital",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Tuesday",
@@ -4416,7 +4416,7 @@
         "Section": "H",
         "Subject": "OOP Lab (CS-H) ",
         "Room": "C-Margala 1",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Wednesday",
@@ -4425,7 +4425,7 @@
         "Section": "D",
         "Subject": "OOP Lab (AI-D)",
         "Room": "C-Margala 1",
-        "Timings": "OOP Lab (AI-D)"
+        "Timings": "12:20-02:25"
     },
     {
         "Day": "Wednesday",
@@ -4434,7 +4434,7 @@
         "Section": "K",
         "Subject": "OOP Lab (CS-K) ",
         "Room": "C-Margala 3",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Wednesday",
@@ -4443,7 +4443,7 @@
         "Section": "F",
         "Subject": "OOP Lab (CS-F) ",
         "Room": "C-Margala 3",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Wednesday",
@@ -4452,7 +4452,7 @@
         "Section": "C",
         "Subject": "OOP Lab (DS-C)",
         "Room": "C-Margala 3",
-        "Timings": "OOP Lab (AI-D)"
+        "Timings": "12:20-02:25"
     },
     {
         "Day": "Wednesday",
@@ -4461,7 +4461,7 @@
         "Section": "E/V",
         "Subject": "DB Lab (CS-E/V)",
         "Room": "C-Margala 4",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Wednesday",
@@ -4470,7 +4470,7 @@
         "Section": "S",
         "Subject": "Web Engg Lab (SE-S)",
         "Room": "C-Margala 4",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Wednesday",
@@ -4479,7 +4479,7 @@
         "Section": "C/D",
         "Subject": "DB Lab (CS-C/D)",
         "Room": "C-Rawal 1",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Wednesday",
@@ -4488,7 +4488,7 @@
         "Section": "F/H",
         "Subject": "OS Lab (CS-F/H)",
         "Room": "C-Rawal 1",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Wednesday",
@@ -4497,7 +4497,7 @@
         "Section": "N",
         "Subject": "Fund of Big Data Lab (DS-N)",
         "Room": "Rawal 3 (B-232)",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Wednesday",
@@ -4506,7 +4506,7 @@
         "Section": "B",
         "Subject": "AI Lab (CS-B)",
         "Room": "Rawal 3 (B-232)",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Wednesday",
@@ -4515,7 +4515,7 @@
         "Section": "D",
         "Subject": "OOP Lab (SE-D) ReSch",
         "Room": "Rawal 3 (B-232)",
-        "Timings": "OOP Lab (AI-D)"
+        "Timings": "12:20-02:25"
     },
     {
         "Day": "Wednesday",
@@ -4524,7 +4524,7 @@
         "Section": "Q",
         "Subject": "SDA Lab (SE-Q)",
         "Room": "C-Rawal 4",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Wednesday",
@@ -4533,7 +4533,7 @@
         "Section": "P",
         "Subject": "SDA Lab (SE-P)",
         "Room": "C-Rawal 4",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Wednesday",
@@ -4542,7 +4542,7 @@
         "Section": "A",
         "Subject": "AI Lab (CS-A)",
         "Room": "C-Rawal 4",
-        "Timings": "OOP Lab (AI-D)"
+        "Timings": "12:20-02:25"
     },
     {
         "Day": "Wednesday",
@@ -4551,7 +4551,7 @@
         "Section": "T",
         "Subject": "Comp Networks Lab (CY-T)",
         "Room": "A-Karakoram 1",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Wednesday",
@@ -4560,7 +4560,7 @@
         "Section": "M/U",
         "Subject": "DB Lab (DS-M/U)",
         "Room": "A-Karakoram 1",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Wednesday",
@@ -4569,7 +4569,7 @@
         "Section": "J",
         "Subject": "OOP Lab (CS-J) ",
         "Room": "A-Karakoram 2",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Wednesday",
@@ -4578,7 +4578,7 @@
         "Section": "G",
         "Subject": "OOP Lab (CS-G) ",
         "Room": "A-Karakoram 2",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Wednesday",
@@ -4587,7 +4587,7 @@
         "Section": "D",
         "Subject": "AI Lab (CS-D)",
         "Room": "A-Karakoram 2",
-        "Timings": "OOP Lab (AI-D)"
+        "Timings": "12:20-02:25"
     },
     {
         "Day": "Wednesday",
@@ -4596,7 +4596,7 @@
         "Section": "R",
         "Subject": "Comp Networks Lab (SE-R)",
         "Room": "A-Karakoram 3",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Wednesday",
@@ -4605,7 +4605,7 @@
         "Section": "C",
         "Subject": "AI Lab (CS-C)",
         "Room": "A-Mehran 1",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Wednesday",
@@ -4614,7 +4614,7 @@
         "Section": "A1",
         "Subject": "Comm & Pres Skills Lab (CY-A1)",
         "Room": "A-Mehran 2",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Wednesday",
@@ -4623,7 +4623,7 @@
         "Section": "B1",
         "Subject": "Comm & Pres Skills Lab (CY-B1)",
         "Room": "A-Mehran 2",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Wednesday",
@@ -4632,7 +4632,7 @@
         "Section": "C1",
         "Subject": "Comm & Pres Skills Lab (AI-C1)",
         "Room": "A-Mehran 2",
-        "Timings": "OOP Lab (AI-D)"
+        "Timings": "12:20-02:25"
     },
     {
         "Day": "Wednesday",
@@ -4641,7 +4641,7 @@
         "Section": "A2",
         "Subject": "Comm & Pres Skills Lab (CY-A2)",
         "Room": "A-CALL-1",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Wednesday",
@@ -4650,7 +4650,7 @@
         "Section": "B2",
         "Subject": "Comm & Pres Skills Lab (CY-B2)",
         "Room": "A-CALL-1",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Wednesday",
@@ -4659,7 +4659,7 @@
         "Section": "C2",
         "Subject": "Comm & Pres Skills Lab (AI-C2)",
         "Room": "A-CALL-1",
-        "Timings": "OOP Lab (AI-D)"
+        "Timings": "12:20-02:25"
     },
     {
         "Day": "Wednesday",
@@ -4668,7 +4668,7 @@
         "Section": "C1",
         "Subject": "Comm & Pres Skills Lab (SE-C1)",
         "Room": "A-CALL-2",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Wednesday",
@@ -4677,7 +4677,7 @@
         "Section": "D1",
         "Subject": "Comm & Pres Skills Lab (SE-D1)",
         "Room": "A-CALL-2",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Wednesday",
@@ -4686,7 +4686,7 @@
         "Section": "D1",
         "Subject": "Comm & Pres Skills Lab (DS-D1)",
         "Room": "A-CALL-2",
-        "Timings": "OOP Lab (AI-D)"
+        "Timings": "12:20-02:25"
     },
     {
         "Day": "Wednesday",
@@ -4695,7 +4695,7 @@
         "Section": "C2",
         "Subject": "Comm & Pres Skills Lab (SE-C2)",
         "Room": "A-CALL-3",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Wednesday",
@@ -4704,7 +4704,7 @@
         "Section": "D2",
         "Subject": "Comm & Pres Skills Lab (SE-D2)",
         "Room": "A-CALL-3",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Wednesday",
@@ -4713,7 +4713,7 @@
         "Section": "D2",
         "Subject": "Comm & Pres Skills Lab (DS-D2)",
         "Room": "A-CALL-3",
-        "Timings": "OOP Lab (AI-D)"
+        "Timings": "12:20-02:25"
     },
     {
         "Day": "Wednesday",
@@ -4722,7 +4722,7 @@
         "Section": "F",
         "Subject": "DLD Lab (CS-F)",
         "Room": "B-Digital",
-        "Timings": "DBA (19-A)"
+        "Timings": "08:00-10:05"
     },
     {
         "Day": "Wednesday",
@@ -4731,7 +4731,7 @@
         "Section": "J",
         "Subject": "DLD Lab (CS-J) ",
         "Room": "B-Digital",
-        "Timings": "OOP Lab (CS-H) "
+        "Timings": "10:10-12:15"
     },
     {
         "Day": "Thursday",
