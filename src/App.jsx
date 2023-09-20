@@ -40,8 +40,10 @@ function App() {
     const [dep, setDep] = useState("CS");
     const [batch, setBatch] = useState("2022");
     const [section, setSection] = useState("A");
+    const [rows, setRows] = useState([]);
 
     const handleClick = () => {
+        setRows([]);
         //just console logging the data
         timetable.forEach((course) => {
             if (
@@ -49,18 +51,14 @@ function App() {
                 course.Batch === batch &&
                 course.Section.includes(section)
             ) {
-                // loop and display in a table
-                const table = document.getElementById("table");
-                const row = table.insertRow();
-                const day = row.insertCell();
-                const room = row.insertCell();
-                const subject = row.insertCell();
-                const timings = row.insertCell();
+                let currRow = {
+                    Day: course.Day,
+                    Room: course.Room,
+                    Subject: course.Subject,
+                    Timings: course.Timings,
+                };
 
-                day.innerHTML = course.Day;
-                room.innerHTML = course.Room;
-                subject.innerHTML = course.Subject;
-                timings.innerHTML = course.Timings;
+                setRows((rows) => [...rows, currRow]);
             }
         });
     };
@@ -154,7 +152,18 @@ function App() {
                         <th>Timings</th>
                     </tr>
                 </thead>
-                <tbody></tbody>
+                <tbody>
+                    {rows.map((row, index) => {
+                        return (
+                            <tr key={index}>
+                                <td>{row.Day}</td>
+                                <td>{row.Room}</td>
+                                <td>{row.Subject}</td>
+                                <td>{row.Timings}</td>
+                            </tr>
+                        );
+                    })}
+                </tbody>
             </table>
         </main>
     );
